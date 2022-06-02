@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DtvendasApplication<dtvendas>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.daytech.dtvendas.DtvendasApplication",
+            "projectName": "dtvendas",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
